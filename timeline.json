@@ -13,7 +13,7 @@
 		"fecha": "12/04/2016"},
 
 		{"autor": "Vikings ",
-		"avatar": "/images/ragnark.jpg",
+		"avatar": "images/ragnark.jpg",
 		"titulo": "España",
 		"contenido": "Saúl, hemos terminad de invadir París, ahora iremos a por España, más os vale prepararos.",
 		"fecha": "10/04/2016"}
