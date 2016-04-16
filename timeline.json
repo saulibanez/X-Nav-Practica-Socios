@@ -1,0 +1,22 @@
+{
+	"Msgs":[
+		{"autor": "DoctorWho ",
+		"avatar": "images/12doctor.jpg",
+		"titulo": "Vienen los daleks",
+		"contenido": "Saúl, una grieta espacio temporal ha introducidos daleks en las calles de Madrid, necesito tu ayuda",
+		"fecha": "18/04/2016"},
+
+		{"autor": "Sherlock ",
+		"avatar": "images/sherlock.jpg",
+		"titulo": "Piramides de Egipto",
+		"contenido": "Saúl, un gran misterio nos concierne, me gustaria que vinieras con Watson y conmigo para verlo, seguramente necesitaremos tu ayuda en este misterio",
+		"fecha": "12/04/2016"},
+
+		{"autor": "Vikings ",
+		"avatar": "images/ragnark.jpg",
+		"titulo": "España",
+		"contenido": "Saúl, hemos terminad de invadir París, ahora iremos a por España, más os vale prepararos.",
+		"fecha": "10/04/2016"}
+	]
+
+}

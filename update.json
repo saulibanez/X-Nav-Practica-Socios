@@ -1,0 +1,16 @@
+{
+	"Msgs":[
+		{"autor": "khaleesi ",
+		"avatar": "images/khaleesi.jpg",
+		"titulo": "Invierno",
+		"contenido": "El invierno se acerca",
+		"fecha": "22/04/2016"},
+
+		{"autor": "Vikings ",
+		"avatar": "images/ragnark.jpg",
+		"titulo": "España",
+		"contenido": "Saúl, era una broma! no te lo habrás creido! ^^",
+		"fecha": "19/04/2016"}
+	]
+
+}

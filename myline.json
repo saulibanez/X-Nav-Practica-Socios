@@ -1,0 +1,22 @@
+{
+	"Msgs":[
+		{"autor": "Saúl ",
+		"avatar": "images/saitama.jpg",
+		"titulo": "Vienen los daleks",
+		"contenido": "Por supuesto, deja que coja mi destornillador sónico y venme a buscar en la tardis cuando quieras",
+		"fecha": "18/04/2016"},
+
+		{"autor": "Saúl ",
+		"avatar": "images/saitama.jpg",
+		"titulo": "Piramides de Egipto",
+		"contenido": "Has hecho que me pique la curiosidad, ire a buscarte a backer street",
+		"fecha": "12/04/2016"},
+
+		{"autor": "Saúl ",
+		"avatar": "images/saitama.jpg",
+		"titulo": "España",
+		"contenido": "Intentarlo.",
+		"fecha": "10/04/2016"}
+	]
+
+}
