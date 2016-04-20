@@ -34,7 +34,7 @@ $(document).ready(function() {
 	function printMsgs (msgs, id){ 
         for (var i in msgs){
 			$(id).prepend("<div>" + msgs[i].contenido + "<li>" + msgs[i].fecha + "</li>" + "</div>");
-            $(id).prepend("<div>" + '<img id="img" src='+ msgs[i].avatar + '/>' + " " + msgs[i].autor + ", Asunto:  " + msgs[i].titulo + "  <div>");
+            $(id).prepend("<div>" + '<img id="img" src='+ msgs[i].avatar + '>' + " " + msgs[i].autor + ", Asunto:  " + msgs[i].titulo + "  <div>");
         }
         $(id).accordion({collapsible: true, active:false, heightStyle: "content"});
     };
